@@ -1,5 +1,5 @@
 # AnalyzeABTesting
-## AB Testing Analysis
+## Udacity Project 2
 ### Data Files
 1. ab_data.csv
 2. countries.csv
@@ -9,10 +9,10 @@ For this project, I will be working to understand the results of an A/B test run
 
 ## Part I - Probability
 1. Load data into dataframe and clean
-2. Obtain basic proportions for statistics such as (but not limited to):
-  a. conversion rate regardless of treatment or control
-  b. probability an individual received the treatment page
-  c. conversion rate of individual who received control page
+2. Obtain basic proportions for statistics such as (but not limited to):<br/>
+  a. conversion rate regardless of treatment or control<br/>
+  b. probability an individual received the treatment page<br/>
+  c. conversion rate of individual who received control page<br/>
 
 ## Part II - A/B Test
 1. Assume under the null hypothesis,  𝑝𝑛𝑒𝑤  and  𝑝𝑜𝑙𝑑  both have "true" success rates equal to the converted success rate regardless of page - that is  𝑝𝑛𝑒𝑤  and  𝑝𝑜𝑙𝑑  are equal
